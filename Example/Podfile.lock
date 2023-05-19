@@ -1,0 +1,16 @@
+PODS:
+  - LionNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LionNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  LionNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LionNetworking: ec33a77afc934ecc13444aee25c6236a6dae7470
+
+PODFILE CHECKSUM: 5449244c6a502624f0d82af271c58fa006097fb2
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,22 @@
+{
+  "name": "LionNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of LionNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/XiaHaozheJose/LionNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XiaHaozheJose": "wewin.app@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/XiaHaozheJose/LionNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LionNetworking/Classes/**/*"
+}

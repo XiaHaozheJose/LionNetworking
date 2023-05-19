@@ -1,0 +1,6 @@
+framework module LionNetworking {
+  umbrella header "LionNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
