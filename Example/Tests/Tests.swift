@@ -7,7 +7,7 @@ class Tests: XCTestCase {
         super.setUp()
         // Put setup code here. This method is called before the invocation of each test method in the class.
         //        networkMonitor()
-        getRequest()
+        requestTest()
     }
     
     override func tearDown() {
